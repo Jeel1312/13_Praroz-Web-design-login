@@ -67,6 +67,7 @@ ul li a:hover {
 }
 
 .search {
+	margin-top: 20px;
 	width: 330px;
 	float: left;
 	margin-left: 270px;
