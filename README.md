@@ -1,4 +1,3 @@
 # 13_Praroz-Web-design-login
  login page with background image
-
-![Screenshot 2023-12-15 200037](https://github.com/Jeel1312/13_Praroz-Web-design-login/assets/153166867/89ac8566-0d63-4fa6-b00f-a1c017cd3151)
+![Screenshot 2024-01-06 112725](https://github.com/Jeel1312/13_Praroz-Web-design-login/assets/153166867/6a5ce2ad-e433-42c5-bf7e-ddc76b795ac6)
