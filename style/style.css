@@ -1,7 +1,6 @@
 body {
 	margin: 0%;
 	background-image: url("https://t3.ftcdn.net/jpg/05/35/47/38/240_F_535473874_OWCa2ohzXXNZgqnlzF9QETsnbrSO9pFS.jpg");
-	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100%;
 }
@@ -9,8 +8,8 @@ body {
 .main {
 	padding: 0%;
 	width: 100%;
-	height: 695px;
-	background-color: #000000ad;
+	height: 100vh;
+	background-color: #000000c5;
 }
 
 .navbar {
